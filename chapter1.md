@@ -12,6 +12,7 @@ Açık kaynaklı yazılımlarda, yazılımın güncellenmesi tüm kullanıcılar
 
 Açık kaynak kodlu işletim sistemleri lisanlı veya lisanssız olabildiği gibi özgür yazılımların hepsi lisanssızdır. Buna göre, her özgür yazılım açık kaynaklı olabilirken her açık kaynaklı yazılım özgür değildir.
 ![Şekil 1.0 Resim0](images/700px-İsletim-sistemi.png)
+
 GNU/Linux'un kullanım alanlarından bazıları; Android işletim sistemine sahip mobil telefonlar, tabletler, televizyonlar, oyun konsolları, eğitim simülatörleri, uçaklar ve otomobillerdir.
 
 Yazılımın sahipsiz olması farklı kullanıcılar tarafından geliştirilmesinin mümkün olmasına ve bu sayede kısa sürede fazla özellik kazanmasına olanak sağlar. Yazılımda oluşacak hataların düzeltilmesi de daha hızlı gerçekleşir. En önemli özelliklerden biri ise, insanlar arasında yardımlaşma olması farklı toplumların bağlarını kuvvetlendirir. Bu sayede kişisel çıkarlar değil evrensel olarak kazanç sağlanır. Maddi kayıp olmadığı gibi manevi kazanç sağlanır ve bu, günümüzde en çok ihtiyaç duyulan insani duygulardandır.  
