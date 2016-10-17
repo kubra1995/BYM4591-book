@@ -85,6 +85,7 @@ Geçerli dizinde klasör açmayı sağlayan komuttur.
 İçinde bulunulan klasörün mutlak konumunu ekranda gösterir.
 
 <<[Şekil 2.5 pwd komutunun kullanımı](code/pwd-ornek.txt)
+<<[Şekil 2.5.2 genel tekrar](code/slide_18)
 
 ## touch komutu
 
